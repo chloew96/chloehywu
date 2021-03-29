@@ -1,0 +1,5 @@
+export const IntroData = [
+  { text: 'Welcome to my website! 👋', text2: 'Here you\'ll find... An ~aesthetically designed~ collection of my work and volunteer experiences, as well as a blog (currently WIP)!', text3:'This website is statically generated with React JS ⚛️ and hosted on GitHub Pages 😺.', text4: 'Keep reading to learn more about me ☞'},
+  { text: '☀️ By day ☀️', text2: 'I\'m a chemistry undergraduate student! Currently doing my co-op work term with Suncor and Dr. Hoare\'s chemical engineering lab.', text3: 'Here are some of my favourite courses:', text4: '👩‍🔬  CHEM 2OG3 (Structure and Reactivity of Organic Molecules)', text5: 'CHEM 4OB3 (Polymers and Organic Materials)' },
+  { text: 'What am I doing now?', text2: 'I\'m working on expanding my own knowledge base in the science industry by exploring innovations and research in personal care products and developing my skills in scientific communication.' }
+]

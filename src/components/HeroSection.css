@@ -1,0 +1,123 @@
+.Hero-Intro {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  width: 700px;
+  height: 300px;
+}
+
+.Hero-title {
+  height: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  font-weight: 600;
+  color: #3D3D3D;
+}
+
+.Hero-subtitle {
+  height: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  font-weight: 400;
+  color: #3D3D3D;
+}
+
+.description {
+  /* margin-left: 29vw;
+  margin-right: 29vw; */
+  height: 1em;
+  width: 37em;
+  margin: auto;
+}
+
+.Hero-description {
+  height: 16vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight:400;
+  color: #3D3D3D;
+}
+
+.Hero-meters {
+  margin-top: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 70px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  width: 1100px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  margin: 2rem;
+}
+
+.education-meter {
+  width: 29rem;
+  margin-inline-end: auto;
+}
+
+.status-meter {
+  width: 29rem;
+}
+
+.Hero-status {
+  margin-top: 50px;
+}
+
+.status-column {
+  margin-top: -20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 98px;
+}
+
+.meter-title {
+  height: 4.6vh;
+  font-size: 1.7rem;
+  font-weight: 500;
+  color: #3D3D3D;
+}
+
+.meter-subtitle {
+  height: 3..5vh;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #3D3D3D;
+}
+
+.meter-learnmore {
+  height: 1vh;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #3D3D3D;
+}
+
+.down-arrow {
+  margin: auto;
+  margin-top: 20px;
+  width: 20px;
+  font-size: 2rem;
+  color: #70707046;
+}

@@ -1,0 +1,85 @@
+.Intro {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+}
+
+.IntroSlide {
+  margin: auto;
+  padding: 10px;
+  width: 700px;
+  padding: 20px;
+  background-color: #F6FFF6; 
+  height: 420px;
+  border-radius: 50px;
+}
+
+.IntroText {
+  background-color: transparent;
+  margin-top: 10px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.IntroTextTitle {
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  font-size: 1.3rem;
+  font-weight:500;
+  color: #3D3D3D;
+}
+
+.IntroTextDescription {
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  font-size: 1.2rem;
+  font-weight:400;
+  color: #3D3D3D;
+}
+
+.IntroTextAside {
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  font-size: 1.1rem;
+  font-weight:400;
+  color: #3D3D3D;
+}
+
+.right-arrow {
+  position: relative;
+  top: 50%;
+  left: 89%;
+  font-size: 2.5rem;
+  background-color: transparent;
+  color: #7070709a;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+
+.left-arrow {
+  position: relative;
+  top: 50%;
+  right: 1%;
+  font-size: 2.5rem;
+  background-color: transparent;
+  color: #7070709a;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+
+.slide {
+  opacity: 0;
+  transition-duration: 2s ease;
+}
+
+.slide.active {
+  opacity: 1;
+  transition-duration: 2s;
+}
