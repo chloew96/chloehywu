@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-site/static/css/main.07ba7069.chunk.css",
-    "main.js": "/my-site/static/js/main.62bd57b8.chunk.js",
-    "main.js.map": "/my-site/static/js/main.62bd57b8.chunk.js.map",
+    "main.css": "/my-site/static/css/main.39500fc5.chunk.css",
+    "main.js": "/my-site/static/js/main.aefca76c.chunk.js",
+    "main.js.map": "/my-site/static/js/main.aefca76c.chunk.js.map",
     "runtime-main.js": "/my-site/static/js/runtime-main.9d890138.js",
     "runtime-main.js.map": "/my-site/static/js/runtime-main.9d890138.js.map",
-    "static/js/2.d76c2d36.chunk.js": "/my-site/static/js/2.d76c2d36.chunk.js",
-    "static/js/2.d76c2d36.chunk.js.map": "/my-site/static/js/2.d76c2d36.chunk.js.map",
+    "static/js/2.d0afe002.chunk.js": "/my-site/static/js/2.d0afe002.chunk.js",
+    "static/js/2.d0afe002.chunk.js.map": "/my-site/static/js/2.d0afe002.chunk.js.map",
     "index.html": "/my-site/index.html",
-    "static/css/main.07ba7069.chunk.css.map": "/my-site/static/css/main.07ba7069.chunk.css.map",
-    "static/js/2.d76c2d36.chunk.js.LICENSE.txt": "/my-site/static/js/2.d76c2d36.chunk.js.LICENSE.txt",
+    "static/css/main.39500fc5.chunk.css.map": "/my-site/static/css/main.39500fc5.chunk.css.map",
+    "static/js/2.d0afe002.chunk.js.LICENSE.txt": "/my-site/static/js/2.d0afe002.chunk.js.LICENSE.txt",
     "static/media/AFLogo.9b16b4f0.png": "/my-site/static/media/AFLogo.9b16b4f0.png",
     "static/media/ChembioLogo.b95b9553.png": "/my-site/static/media/ChembioLogo.b95b9553.png",
     "static/media/HoareLabLogo.20a4ef8f.png": "/my-site/static/media/HoareLabLogo.20a4ef8f.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9d890138.js",
-    "static/js/2.d76c2d36.chunk.js",
-    "static/css/main.07ba7069.chunk.css",
-    "static/js/main.62bd57b8.chunk.js"
+    "static/js/2.d0afe002.chunk.js",
+    "static/css/main.39500fc5.chunk.css",
+    "static/js/main.aefca76c.chunk.js"
   ]
 }
