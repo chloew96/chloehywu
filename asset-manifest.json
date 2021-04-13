@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebc80004.chunk.css",
-    "main.js": "/static/js/main.387434c1.chunk.js",
-    "main.js.map": "/static/js/main.387434c1.chunk.js.map",
+    "main.css": "/static/css/main.60ac69d1.chunk.css",
+    "main.js": "/static/js/main.8d7486db.chunk.js",
+    "main.js.map": "/static/js/main.8d7486db.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
     "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
     "static/js/2.9ca44673.chunk.js": "/static/js/2.9ca44673.chunk.js",
     "static/js/2.9ca44673.chunk.js.map": "/static/js/2.9ca44673.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ebc80004.chunk.css.map": "/static/css/main.ebc80004.chunk.css.map",
+    "static/css/main.60ac69d1.chunk.css.map": "/static/css/main.60ac69d1.chunk.css.map",
     "static/js/2.9ca44673.chunk.js.LICENSE.txt": "/static/js/2.9ca44673.chunk.js.LICENSE.txt",
     "static/media/AFLogo.9b16b4f0.png": "/static/media/AFLogo.9b16b4f0.png",
     "static/media/ChembioLogo.b95b9553.png": "/static/media/ChembioLogo.b95b9553.png",
+    "static/media/Chloe_Wu_Resume_Updated_042021.918a5ad5.pdf": "/static/media/Chloe_Wu_Resume_Updated_042021.918a5ad5.pdf",
     "static/media/HoareLabLogo.20a4ef8f.png": "/static/media/HoareLabLogo.20a4ef8f.png",
     "static/media/LEAPLogo.d7b3af71.png": "/static/media/LEAPLogo.d7b3af71.png",
     "static/media/meter.704a99dd.png": "/static/media/meter.704a99dd.png",
@@ -21,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.406dd86f.js",
     "static/js/2.9ca44673.chunk.js",
-    "static/css/main.ebc80004.chunk.css",
-    "static/js/main.387434c1.chunk.js"
+    "static/css/main.60ac69d1.chunk.css",
+    "static/js/main.8d7486db.chunk.js"
   ]
 }
