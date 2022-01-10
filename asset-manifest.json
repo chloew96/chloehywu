@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4702cea9.chunk.css",
-    "main.js": "/static/js/main.78b44dc1.chunk.js",
-    "main.js.map": "/static/js/main.78b44dc1.chunk.js.map",
+    "main.js": "/static/js/main.36a9a973.chunk.js",
+    "main.js.map": "/static/js/main.36a9a973.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
     "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
     "static/js/2.bea2a9db.chunk.js": "/static/js/2.bea2a9db.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.bea2a9db.chunk.js.LICENSE.txt": "/static/js/2.bea2a9db.chunk.js.LICENSE.txt",
     "static/media/AFLogo.9b16b4f0.png": "/static/media/AFLogo.9b16b4f0.png",
     "static/media/ChembioLogo.b95b9553.png": "/static/media/ChembioLogo.b95b9553.png",
-    "static/media/Chloe_Wu_Resume_Updated_051521.b3210c8f.pdf": "/static/media/Chloe_Wu_Resume_Updated_051521.b3210c8f.pdf",
+    "static/media/Chloe_Wu_Resume_Updated_202201.0581e11c.pdf": "/static/media/Chloe_Wu_Resume_Updated_202201.0581e11c.pdf",
     "static/media/HoareLabLogo.20a4ef8f.png": "/static/media/HoareLabLogo.20a4ef8f.png",
     "static/media/LEAPLogo.d7b3af71.png": "/static/media/LEAPLogo.d7b3af71.png",
     "static/media/meter.65688bd3.png": "/static/media/meter.65688bd3.png",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.406dd86f.js",
     "static/js/2.bea2a9db.chunk.js",
     "static/css/main.4702cea9.chunk.css",
-    "static/js/main.78b44dc1.chunk.js"
+    "static/js/main.36a9a973.chunk.js"
   ]
 }
